@@ -1,6 +1,8 @@
-# algorithm_study
+# ♟️ algorithm_study
 
 알고리즘을 공부하고, 커리큘럼에 따른 문제를 풀어보며 풀이 방식을 공유하는 스터디입니다.
+
+📘 NOTION: https://www.notion.so/e52cdd8262804373896c3b98e924c56f
 
 <br><br>
 
@@ -12,7 +14,7 @@
 
 <br><br>
 
-## 커리큘럼
+## ✒️ 커리큘럼
 ### **0주차 시간복잡도와 Big-O 표기법 (7월 4주)**
 
 [참고자료]
