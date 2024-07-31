@@ -37,15 +37,18 @@
 
 [참고자료]
 
-- 
+- https://youtu.be/VcCkPrGaKrs?si=oRNuuJrHoC14R9wI
 
 [필수문제]
 
-- 
+- https://www.acmicpc.net/problem/2609
+- https://www.acmicpc.net/problem/15649
+- https://www.acmicpc.net/problem/2747
+- https://www.acmicpc.net/problem/11653
 
 [도전문제]
 
-- 
+- 컴포트: https://www.acmicpc.net/problem/3258
 
 ---
 
