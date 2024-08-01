@@ -24,12 +24,12 @@
 
 [필수문제]
 
-- 일곱 난쟁이: https://www.acmicpc.net/problem/2309
-- 덩치: https://www.acmicpc.net/problem/7568
+- [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [덩치](https://www.acmicpc.net/problem/7568)
 
 [도전문제]
 
-- 컴포트: https://www.acmicpc.net/problem/3258
+- [컴포트](https://www.acmicpc.net/problem/3258)
 
 ---
 
@@ -41,14 +41,14 @@
 
 [필수문제]
 
-- https://www.acmicpc.net/problem/2609
-- https://www.acmicpc.net/problem/15649
-- https://www.acmicpc.net/problem/2747
-- https://www.acmicpc.net/problem/11653
+- [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [N과 M (1)](https://www.acmicpc.net/problem/15649)
+- [피보나치 수](https://www.acmicpc.net/problem/2747)
+- [소인수분해](https://www.acmicpc.net/problem/11653)
 
 [도전문제]
 
-- 컴포트: https://www.acmicpc.net/problem/3258
+- [컴포트](https://www.acmicpc.net/problem/3258)
 
 ---
 
@@ -70,11 +70,13 @@
 
 [필수문제]
 
-- 
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- [큐 2](https://www.acmicpc.net/problem/18258)
+- [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 
 [도전문제]
 
-- 
+- [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
 ---
 
