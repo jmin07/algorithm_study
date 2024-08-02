@@ -50,6 +50,14 @@
 
 - [컴포트](https://www.acmicpc.net/problem/3258)
 
+[선택문제]
+
+- [소수구하기](https://www.acmicpc.net/problem/1929)
+- [공통순열](https://www.acmicpc.net/problem/1622)
+- [조합](https://www.acmicpc.net/problem/2407)
+- [팩토리얼](https://www.acmicpc.net/problem/10872)
+- [수열정렬](https://www.acmicpc.net/problem/1015)
+
 ---
 
 ### **2주차 선형 자료구조 (스택, 큐, 덱)**
