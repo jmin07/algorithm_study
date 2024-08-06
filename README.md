@@ -41,7 +41,7 @@
 
 [필수문제]
 
-- [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 - [N과 M (1)](https://www.acmicpc.net/problem/15649)
 - [피보나치 수](https://www.acmicpc.net/problem/2747)
 - [소인수분해](https://www.acmicpc.net/problem/11653)
