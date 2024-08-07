@@ -3,6 +3,11 @@ import java.io.*;
 
 public class B2346 {
 
+    /**
+     * 틀린 문제
+     * 1. 출력시간 초과
+     * 2. 출력 값 상이함
+     */
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
